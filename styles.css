@@ -1,0 +1,141 @@
+
+body {
+  font-family: Arial, Helvetica ;
+  background: #666664;
+
+
+    background-image: url(img/imagenes/fondofut);
+    background-position:center center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+    height: 360px;
+    color: rgb(3, 3, 3);
+    padding: 25px;
+}
+
+
+nav ul{
+    display: inline-flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+h1{
+  text-align: center;
+  text-decoration: none;
+  color: rgb(23, 243, 23);
+
+
+}
+
+select{
+    position: relative;
+    perspective-origin: 0cm;
+    color: rgb(0, 0, 0);
+    background-color: rgb(172, 164, 154);
+    text-decoration: black;
+
+}
+option{
+    color: rgb(0, 0, 0);
+    background-color: rgb(226, 186, 140);
+}   
+
+h3{
+    text-align: justify;
+}
+h2{
+    text-align: justify;
+    text-decoration: #ffffff;
+    color: #ffffff;
+    text-align: center;
+
+    
+
+
+}
+li{
+    background-color: aqua;
+    background-position: center;
+    text-decoration: bisque;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+
+  
+  
+  
+  header {
+    background-color: #33b3c4;
+    padding: 20px;
+
+  
+  }
+  
+ 
+  nav {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+  }
+  
+  a:hover {
+    color: #ebebeb;
+  }
+   
+  select {
+    padding: 5px;
+    border: 1px solid #067538;
+    border-radius: 3px;
+  }
+
+  
+  .menu{
+    list-style: none;
+    padding: 0%;
+    background: #ffffff;
+    width: 90%;
+    max-width: 1000px;
+    margin:auto
+
+   
+  }
+
+   .menu li { 
+    display: block;
+
+    display:inline-block;
+    text-align:center center;
+   }
+ 
+    .menu li a {text-decoration: none;
+    color:  white;
+    padding:  20px;
+    display: block  30px; 
+    display:inline-block;
+ 
+  }
+  .menu li a:hover{
+    background: #556755;
+  }
+  h4{
+    text-align: center;
+    text-decoration: #ffffff;
+    color: #000000;
+
+
+   
+  }
+
+ 
